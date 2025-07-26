@@ -1,0 +1,12 @@
+
+/* Стили логотипа */
+.logo img {
+  height: 55px;
+  transition: all 0.3s ease;
+  filter: drop-shadow(0 0 0 transparent); /* плавное появление тени */
+}
+
+.logo img:hover {
+  transform: scale(1.08);
+  filter: drop-shadow(0 0 10px var(--orange));
+}

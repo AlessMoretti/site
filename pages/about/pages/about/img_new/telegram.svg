@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 50" width="90" height="50">
+	<title>Новый проект</title>
+	<defs>
+		<image  width="50" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAsCAMAAAAQPRtoAAAAAXNSR0IB2cksfwAAAD9QTFRFAAAA////5+fo7u7v2trd3t7g1tbY3t7h1tbY8vLz2trcw8PH6urs4+Pl/Pz89fX23t7g6urs2trd4+Pl+fn5H2ZJrQAAABV0Uk5TAP/+/v4A/v7//v7//v3//v79/f7++PtjKgAAAS5JREFUeJyV1G1zgyAMAOAgWtvb2u22//8bu9t2typoJlSqkAQKH6hJeMqbp4Kaph5dDagginl6EjxHVDYsgyLhylnCF2UiVVAoZCbnCd0xZgnNNGragtakA5hZdWP264qHcKs8KBz3cUQ4cFRqmKLMRvgj0j38YZwKhAcvVkPzmyQ9Ee7gbJfCbSYClHRp6rR08y1Ny+Qy6KVvv0lBJMu2AabDD60I5NW4KaaB+zO87z1WR3RAEIFE6O3+dhjDASe2weGLc/I/yZXzJHzXPLEjCwjxwXnKCZZAr6V9rIKSrgPN3IdEXPQ+CscrE+ihirhQX6615GP+ygqGfBr6/hZIprFkH7e2liApIr+Szkb1qCyQNdEaoPU8wSQuEiSZLGFaGFNB1lG4D4rNn2Mg//SzXDWIaUMtAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="teleg" href="#img1" x="20" y="3"/>
+</svg>
